@@ -18,10 +18,6 @@ Built with 💻 **React + Tailwind CSS**, and styled to *vibe* ✨.
 - Visualize study hours with charts  
 - Track total focus time  
 
----
-
-## 💡 Upcoming Features
-
 - 💸 **Expense Tracker**  
   - Stay aware of where your money’s going  
   - Track expenses by category  
